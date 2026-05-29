@@ -1,4 +1,4 @@
-First draft of BERIL landing page (currently accessible at https://nlharris.github.io/beril-landing-page/; eventually will be at http://beril-doe.org/)
+First draft of BERIL landing page (currently accessible at https://beril-doe.github.io/beril-landing-page/; eventually will be at http://beril-doe.org/)
 
 BERIL stands for [DOE] BER Intelligence Layer
 
